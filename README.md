@@ -1,2 +1,2 @@
 # LBS
-Location Based Service
+Location Based Service<br>SpringMVC+Hibernate
